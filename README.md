@@ -1,5 +1,3 @@
-# Pytorch
-
 # PyTorch LLM Architecture & Data Flow Cheat Sheet
 
 **Advanced techniques for tweaking LLM architectures and optimizing data flow**
